@@ -1,5 +1,5 @@
 ﻿/*******************************************************************************************************************************
-**				ADI.........HONEST TEMU......:     
+**				                                    .........HONEST TEMU......:     
                 
                 Basıt Açıklama:
 **				Bir atık uygun kutuya atıldığında, atığın hacmi kadar puan kazanılacak ve hemen rastgele yeni bir atık
