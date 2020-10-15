@@ -2,7 +2,7 @@
 **				                                    .........HONEST TEMU......:     
                 
                 Basıt Açıklama:
-**				Bir atık uygun kutuya atıldığında, atığın hacmi kadar puan kazanılacak ve hemen rastgele yeni bir atık
+  				      Bir atık uygun kutuya atıldığında, atığın hacmi kadar puan kazanılacak ve hemen rastgele yeni bir atık
                 üretilecektir.
                 Bir atık kutusunda, eklenmek istenen atığı alacak kadar boş yer yoksa atık kutuya eklenmeyecektir. Bu
                 durumda atığı kutuya ekleyebilmek için önce kutunun boşaltılması gerekecektir.
